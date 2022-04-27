@@ -1,3 +1,5 @@
+<img src="/assets/AFC79C90-9DCD-4137-99A5-1B75933BF91D.gif" width="600">
+
 →[写写](/posts/日常.md) →[练练](/posts/练字.md) →[看看](/posts/书影音.md)
 
 ---

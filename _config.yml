@@ -3,3 +3,6 @@ title: 好墨 Hao.Ink
 theme: jekyll-theme-hacker
 
 encoding: "utf-8 with BOM"
+
+github:
+  is_project_page: false

@@ -9,5 +9,5 @@
 
 ---
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhao.ink&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%E9%A1%B5%E9%9D%A2%E6%B5%8F%E8%A7%88&edge_flat=false)](https://hits.seeyoufarm.com) [管理员登录](https://github.com/xiangshuink/xiangshuink.github.io)
+ [管理员登录](https://github.com/xiangshuink/xiangshuink.github.io)
 

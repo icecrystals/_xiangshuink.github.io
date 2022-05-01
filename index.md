@@ -1,6 +1,8 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
-→[归档](/posts/日常.md) →[练练](/posts/练字.md) →[看看](/posts/书影音.md) →[一言](/posts/yiyan.md) →[足迹](/posts/足迹.md) →[友链](/posts/友链.md) →[留言](/posts/留言.md)
+<font size=20>→[归档](/posts/日常.md) →[练练](/posts/练字.md) →[看看](/posts/书影音.md) →[一言](/posts/yiyan.md) →[足迹](/posts/足迹.md) →[友链](/posts/友链.md) →[留言](/posts/留言.md)</font>
+ 
+---
 
 <img src="/assets/AFC79C90-9DCD-4137-99A5-1B75933BF91D.gif" width="800">
 

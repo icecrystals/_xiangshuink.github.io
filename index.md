@@ -4,7 +4,7 @@
  
 ---
 
-<img src="/assets/AFC79C90-9DCD-4137-99A5-1B75933BF91D.gif" width="800">
+<img src="/assets/tumblr_b769b1312c2d0159793e9cae5da156bb_09cb7a69_500.webp" width="400">
 
 #### 最近更新
 

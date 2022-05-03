@@ -2,4 +2,4 @@
 
 This is my personal blog website.
 
-[好墨 | 练字/写作/分享](https://hao.ink)
+[好墨 | 记录生活的惊喜](https://hao.ink)

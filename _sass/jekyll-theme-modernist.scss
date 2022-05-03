@@ -1,3 +1,4 @@
+
 @import "rouge-base16-dark";
 @import url('https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700');
 
@@ -14,7 +15,7 @@ src:url('https://cdn.jsdelivr.net/gh/iDayDayPlus/myCDN/my.ttf');
 
 body {
   padding:50px 0;
-  margin: 8px;
+  margin:0;
   font:14px/1.5 ChineseFont, Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#555;
   font-weight:300;
@@ -23,7 +24,7 @@ body {
 }
 
 .wrapper {
-  width:240px;
+  width:740px;
   margin:0 auto;
   background:#DEDEDE;
   border-radius: 8px;
@@ -40,7 +41,7 @@ a {
 }
 
 p {
-  margin:0 20px ;
+  margin:0 0 20px;
   padding:0;
 }
 
@@ -176,7 +177,7 @@ section {
 h1, h2, h3, h4, h5, h6 {
   color:#222;
   padding:0;
-  margin:0 20px;
+  margin:0 0 20px;
   line-height:1.2;
   font-family: ChineseFont;
 }

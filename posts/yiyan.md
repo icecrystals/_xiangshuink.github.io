@@ -1,6 +1,6 @@
-# 一言
-
 [返回首页](https://hao.ink)
+
+# 一言
 
 ---
 *生活是一部小说，需要用热爱书写。 | Life is a novel, you write with your own passion.* 

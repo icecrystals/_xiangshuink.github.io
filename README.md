@@ -2,4 +2,4 @@
 
 This is my personal blog website.
 
-[好墨 | 记录生活的惊喜](https://hao.ink)
+[好墨 | 夏和帆的生活向闲谈](https://hao.ink)

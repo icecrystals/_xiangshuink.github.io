@@ -5,5 +5,8 @@ theme: jekyll-theme-modernist
 
 encoding: "utf-8 with BOM"
 
+plugins:
+ - jekyll-feed
+
 github:
   is_project_page: false

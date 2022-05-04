@@ -20,6 +20,7 @@
 关于：这是我的个人小站，主要记录自己的练字历程、日常分享、所思所想、所见所闻等。如有需要，请联系icecrystals@163.com。本博主原则上希望保持匿名。本站谢绝一切转载。
 
 ---
+<a href="http://s05.flagcounter.com/more/2aWO"><img src="https://s05.flagcounter.com/count/2aWO/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_40/viewers_0/labels_0/pageviews_0/flags_0/percent_1/" alt="Flag Counter" border="0"></a>
 
  ©好墨HaoInk 2021-2022（原夏和帆的博客 2018-2021）。 [管理员登录](https://github.com/xiangshuink/xiangshuink.github.io)
 

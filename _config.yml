@@ -5,6 +5,9 @@ theme: jekyll-theme-modernist
 
 encoding: "utf-8 with BOM"
 
+name: 好墨 Hao.Ink
+url: https://hao.ink
+
 feed_items: 10
 feed_update_period: daily
 feed_update_frequency: 1

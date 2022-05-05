@@ -31,7 +31,7 @@
 
 ---
 
-<a href="https://info.flagcounter.com/uG1W"><img src="https://s05.flagcounter.com/count/uG1W/bg_E8E8E8/txt_9E9E9E/border_E8E8E8/columns_8/maxflags_16/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+<a href="https://info.flagcounter.com/uG1W"><img src="https://s05.flagcounter.com/count/uG1W/bg_FFFFFF/txt_9E9E9E/border_FFFFFF/columns_8/maxflags_16/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
 
  ©好墨HaoInk 2021-2022（原夏和帆的博客 2018-2021）。统计（Since 2022 May 5）。 [管理员登录](https://github.com/xiangshuink/xiangshuink.github.io)

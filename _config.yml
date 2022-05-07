@@ -8,6 +8,8 @@ encoding: "utf-8 with BOM"
 name: 好墨 Hao.Ink
 url: https://hao.ink
 
+google_analytics: G-YX76K9MB25
+
 feed_items: 10
 feed_update_period: daily
 feed_update_frequency: 1
